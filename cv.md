@@ -16,3 +16,4 @@ VSCode).
    * HTML + CSS + JS basics courses https://ru.code-basics.com/
    * JavaScript - UDEMY
 7. Special secondary education.
+8. A1 Elementary.
