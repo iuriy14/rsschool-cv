@@ -1,0 +1,39 @@
+body{
+    font-family: Prompt;
+    font-size: 18px;
+}
+
+
+.container {
+    border: 1px solid gray;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+
+.container img {
+    
+    width: 35%;
+    height: 7cm;
+    float: right;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+
+a {
+    color: #0366d6;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: #0366d6;
+    text-decoration: underline;
+}
